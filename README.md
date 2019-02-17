@@ -17,3 +17,17 @@ All the apps are classified by topic and contain the corresponding references to
 #### Android demo:
 
 ![Android demo](onboarding/fitness/demo-android.gif)
+
+### [Party Finding](onboarding/party_finding)
+
+#### [Original design](https://www.uplabs.com/posts/party-finding-concept) by [Lorenzo Restuccia](https://www.uplabs.com/lorenzo_restuccia_8):
+
+![Original design](onboarding/party_finding/original-design.png)
+
+#### iOS demo:
+
+![iOS demo](onboarding/party_finding/demo-ios.gif)
+
+#### Android demo:
+
+![Android demo](onboarding/party_finding/demo-android.gif)
