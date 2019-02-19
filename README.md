@@ -2,6 +2,22 @@ Here you will find a collection of apps that I developed in Flutter with the pur
 
 All the apps are classified by topic and contain the corresponding references to the original UI/UX designs.
 
+## Authentication
+
+### [Minimal Login](authentication/minimal_login)
+
+#### [Original design](https://www.uplabs.com/posts/minimal-login-light-dark-version) by [Anmol Arora](https://www.uplabs.com/anmol3107):
+
+![Original design](authentication/minimal_login/original-design.png)
+
+#### iOS demo:
+
+![iOS demo](authentication/minimal_login/demo-ios.gif)
+
+#### Android demo:
+
+![Android demo](authentication/minimal_login/demo-android.gif)
+
 ## Onboarding
 
 ### [Fitness](onboarding/fitness)
