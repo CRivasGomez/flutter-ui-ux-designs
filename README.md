@@ -18,6 +18,20 @@ All the apps are classified by topic and contain the corresponding references to
 
 ![Android demo](authentication/minimal_login/demo-android.gif)
 
+### [Taxigola](authentication/taxigola)
+
+#### [Original design](https://www.uplabs.com/posts/login-ui-8357f9ec-e05d-47b2-8902-f4229c307e8f) by anonymous:
+
+![Original design](authentication/taxigola/original-design.png)
+
+#### iOS demo:
+
+![iOS demo](authentication/taxigola/demo-ios.gif)
+
+#### Android demo:
+
+![Android demo](authentication/taxigola/demo-android.gif)
+
 ## Onboarding
 
 ### [Fitness](onboarding/fitness)
