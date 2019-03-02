@@ -4,6 +4,20 @@ All the apps are classified by topic and contain the corresponding references to
 
 ## Authentication
 
+### [Animated Background](authentication/animated_background)
+
+#### [Original design](https://www.uplabs.com/posts/ios-login-template-freebie) by [Mike Ivanchyshyn](https://www.uplabs.com/imvasyl):
+
+![Original design](authentication/animated_background/original-design.gif)
+
+#### iOS demo:
+
+![iOS demo](authentication/animated_background/demo-ios.gif)
+
+#### Android demo:
+
+![Android demo](authentication/animated_background/demo-android.gif)
+
 ### [Minimal Login](authentication/minimal_login)
 
 #### [Original design](https://www.uplabs.com/posts/minimal-login-light-dark-version) by [Anmol Arora](https://www.uplabs.com/anmol3107):
